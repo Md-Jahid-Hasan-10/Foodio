@@ -1,20 +1,31 @@
-# Foodio - Food Delivery Platform
+# 🍔 Foodio - Food Delivery Platform
 
 Foodio is a full-stack food ordering and menu management platform. It features a seamless user experience for browsing and purchasing meals, alongside a robust admin dashboard for managing categories, menu items, and order statuses.
 
+---
+
 ## 🌐 Live Links
 
-- **Live Demo (Frontend):** [foodio-xi.vercel.app](https://foodio-xi.vercel.app)
-- **Live API (Backend):** [foodio-jxlu.onrender.com](https://foodio-jxlu.onrender.com)
+- **Backend URL:** [https://foodio-vzo2.onrender.com](https://foodio-vzo2.onrender.com)  
+- **Frontend URL:** [https://foodio-umdh.vercel.app/](https://foodio-umdh.vercel.app/)
 
-## 💻 Tech Stack
+---
 
-- **Frontend:** Next.js (App Router), React, Tailwind CSS, Zustand, Shadcn UI
-- **Backend:** NestJS, TypeScript, Prisma ORM
-- **Database:** PostgreSQL (hosted on Neon)
+## 🛠 Tech Stack
+
+- **Frontend:** Next.js (App Router), React, Tailwind CSS, Zustand, Shadcn UI  
+- **Backend:** NestJS, TypeScript, Prisma ORM  
+- **Database:** PostgreSQL (hosted on Neon)  
 - **Authentication:** JWT & Bcrypt
 
 ---
+
+## 🔑 Default Credentials
+
+ADMIN_EMAIL="admin@foodio.com"
+ADMIN_PASS="admin123"
+USER_EMAIL="customer@foodio.com"
+USER_PASS="user123"
 
 ## ✨ Core Technical Implementations
 
