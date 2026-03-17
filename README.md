@@ -111,7 +111,7 @@ npm run dev
 
 ## 👨‍💻 Author
 
-Jahid Hasan
+Jahid Hasan Institute Of Information Technology Jahangirnagar University
 
 GitHub: https://github.com/Md-Jahid-Hasan-10
 LinkedIn: https://www.linkedin.com/in/jahid-hasan-jhs/
